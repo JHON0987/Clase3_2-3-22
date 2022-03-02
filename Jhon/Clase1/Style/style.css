@@ -1,0 +1,24 @@
+
+body{
+    background-color:rgb(154, 185, 231);
+    text-align: center;
+    font-size: 36px;
+    margin-top: 5%;
+}
+button{
+    padding: 5px;
+    border-radius:50% ;
+    color:black;
+    background-color: rgb(194, 194, 194);
+    font-size: 30px;
+    border-color: rgb(92, 91, 91);
+    padding-block: 15px;
+}
+div{
+    color: red;
+    padding-top: 35px;
+    font-size: 50px;
+}
+header{
+    color: blue;
+}
